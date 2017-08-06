@@ -9,8 +9,9 @@
    ████      ████    ██    ███    ██    ████
    ██████████████    ███████████████    ███████████ 
 
+Owl is a linux script built as a cheat for Metasploit. This wil make a payload, listener, persistence script and things with Armitage
 
- This tool is made by binaryB4T.
+This tool is made by binaryB4T.
 
                                  /|_M_|\
                                 |       |  
